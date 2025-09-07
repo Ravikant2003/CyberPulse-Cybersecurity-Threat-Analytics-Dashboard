@@ -24,8 +24,7 @@ CyberPulse is an interactive analytics dashboard that helps organizations unders
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/cyberpulse-threat-analytics.git
-cd cyberpulse-threat-analytics
+git clone https://github.com/Ravikant2003/CyberPulse-Cybersecurity-Threat-Analytics-Dashboard.git
 ```
 
 2. Install the required dependencies:
@@ -66,7 +65,6 @@ cyberpulse-threat-analytics/
 ├── app/                     # Streamlit dashboard application
 │   └── dashboard.py         # Main dashboard application
 ├── models/                  # Trained ML models
-├── images/                  # Visualizations and screenshots
 ├── requirements.txt         # Python dependencies
 └── README.md               # Project documentation
 ```
