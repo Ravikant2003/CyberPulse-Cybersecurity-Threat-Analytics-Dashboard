@@ -18,11 +18,12 @@ Youtube Link: https://youtu.be/KDb9fqNzilM
 
 ## Key Vulnerability Trends Analyzed
 
-In this project, we analyzed **10 years of cybersecurity incident data** to uncover actionable trends guiding security priorities:
+In this project, we analyzed **10 years of cybersecurity incident data** to uncover **three actionable trends** guiding security priorities:
 
-- **Financial Loss:** Identifies which types of incidents cause the most monetary impact, helping prioritize high-risk vulnerabilities.
+- **Financial Loss:** Identifies which incidents cause the most monetary impact, helping prioritize high-risk vulnerabilities.
 - **Number of Affected Users:** Shows which threats affect the largest portion of users, guiding risk mitigation efforts.
 - **Incident Resolution Time:** Highlights incidents that take longer to resolve, revealing process bottlenecks and areas for improving response efficiency.
+
 
 ## 🛠️ Installation
 ### Prerequisites
